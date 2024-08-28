@@ -40,5 +40,4 @@ func main() {
 
 		fmt.Println(Santa(args1))
 	}
-
 }
