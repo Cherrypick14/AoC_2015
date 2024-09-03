@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-file, _ := os.Open("presents.txt")
+file, _ := os.Open("data.txt")
 
 defer file.Close()
 
