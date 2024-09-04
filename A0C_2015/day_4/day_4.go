@@ -35,7 +35,13 @@ func FindAdventCoin(secretKey string) int {
 
 func main() {
 
-	word := "bgvyzdsv"
+	// word := "bgvyzdsv"
 
-	fmt.Println(FindAdventCoin(word))
+	// word2 := "vsdzyvgb"
+
+	word3 := "dgthioke"
+
+	// fmt.Println(FindAdventCoin(word))
+	fmt.Println(FindAdventCoin(word3))
+	// fmt.Println(FindAdventCoin(word))
 }
